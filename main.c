@@ -6,7 +6,7 @@ int main(void)
 
     for (i = 0; i < 5; i++)
     {
-        static int temp = 1;
+        int temp = 1;
         printf("temp = %d\n", temp);
         temp++;
     }
