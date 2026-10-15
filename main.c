@@ -1,3 +1,4 @@
+#include <stdio.h>
 
 int main(void)
 {
@@ -10,4 +11,5 @@ int main(void)
     }
     y = 4;
     return 0;
+    
 }
